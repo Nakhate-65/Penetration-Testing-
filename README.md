@@ -1,1 +1,1 @@
-pen test project
+A web application penetration testing project focused on identifying, analyzing, and documenting security vulnerabilities. The project involved reconnaissance, information gathering, vulnerability assessment, manual security testing, and documenting findings with their potential impact and recommended remediation steps. It provided practical experience with common web security issues, penetration testing methodologies, and security reporting.
